@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Software Engineering
 email: kubaugustyn@gmail.com
-baseurl: /blog # the subpath of your site, e.g. /blog
+baseurl: # the subpath of your site, e.g. /blog
 url: augustyn.dev # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kubaugustyn
 github_username: kubaugustyn
